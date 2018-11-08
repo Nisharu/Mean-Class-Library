@@ -182,11 +182,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\CSharrp\\Mean Solution\\Mean Class Library\\Mean Class Library.csproj",
+      "projectUniqueName": "d:\\Github Repos\\Mean\\Mean-Class-Library\\Mean Class Library\\Mean Class Library.csproj",
       "projectName": "Mean Class Library",
-      "projectPath": "D:\\CSharrp\\Mean Solution\\Mean Class Library\\Mean Class Library.csproj",
+      "projectPath": "d:\\Github Repos\\Mean\\Mean-Class-Library\\Mean Class Library\\Mean Class Library.csproj",
       "packagesPath": "C:\\Users\\Tapac\\.nuget\\packages\\",
-      "outputPath": "D:\\CSharrp\\Mean Solution\\Mean Class Library\\obj\\",
+      "outputPath": "d:\\Github Repos\\Mean\\Mean-Class-Library\\Mean Class Library\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
