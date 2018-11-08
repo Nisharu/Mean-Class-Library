@@ -1,0 +1,9 @@
+D:\CSharrp\Mean Solution\Mean Class Library\bin\Debug\netstandard2.0\Mean Class Library.deps.json
+D:\CSharrp\Mean Solution\Mean Class Library\bin\Debug\netstandard2.0\Mean Class Library.dll
+D:\CSharrp\Mean Solution\Mean Class Library\bin\Debug\netstandard2.0\Mean Class Library.pdb
+D:\CSharrp\Mean Solution\Mean Class Library\obj\Debug\netstandard2.0\Mean Class Library.csprojAssemblyReference.cache
+D:\CSharrp\Mean Solution\Mean Class Library\obj\Debug\netstandard2.0\Mean Class Library.csproj.CoreCompileInputs.cache
+D:\CSharrp\Mean Solution\Mean Class Library\obj\Debug\netstandard2.0\Mean Class Library.AssemblyInfoInputs.cache
+D:\CSharrp\Mean Solution\Mean Class Library\obj\Debug\netstandard2.0\Mean Class Library.AssemblyInfo.cs
+D:\CSharrp\Mean Solution\Mean Class Library\obj\Debug\netstandard2.0\Mean Class Library.dll
+D:\CSharrp\Mean Solution\Mean Class Library\obj\Debug\netstandard2.0\Mean Class Library.pdb
